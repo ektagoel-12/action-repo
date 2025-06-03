@@ -1,3 +1,3 @@
 # action-repo
-Test repository for GitHub webhook events
+Test repository for GitHub webhook events.
 HELLO
