@@ -1,7 +1,7 @@
 # src/main.py
 
 def main():
-    print("Hello from the main script!")
+    print("Hello script!")
 
 if __name__ == "__main__":
     main()
